@@ -1,4 +1,4 @@
-class FloorPlan < Formula
+class Floorplan < Formula
   desc "floorplan"
   homepage "https://github.com/julioz/FloorPlan"
   url "https://github.com/julioz/FloorPlan/releases/download/v0.3/floorplan-cli-0.3.zip"

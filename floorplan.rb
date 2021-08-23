@@ -1,8 +1,8 @@
 class Floorplan < Formula
   desc "floorplan"
   homepage "https://github.com/julioz/FloorPlan"
-  url "https://github.com/julioz/FloorPlan/releases/download/v0.3/floorplan-cli-0.3.zip"
-  sha256 "33ea10bfb74d8e9c802913f2025f4ff2beb808b93c308d1b92a4617c86ec5d01"
+  url "https://github.com/julioz/FloorPlan/releases/download/v0.4/floorplan-cli-0.4.zip"
+  sha256 "3d114d8e94d3f8ba0364f44008f573eeada0b03e58ff104352d67f1126b13974"
 
   bottle :unneeded
 
